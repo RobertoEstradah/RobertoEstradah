@@ -96,6 +96,17 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br><br>
 
+<!-- ============ CIERRE (centrado) ============ -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
+
+</div>
+
 <!-- ============ PROYECTOS DESTACADOS (centrado) ============ -->
 
 ## Proyectos destacados
@@ -146,13 +157,3 @@ Lo que lo hace distinto de un notebook de leaderboard:
 
 <br>
 
-<!-- ============ CIERRE (centrado) ============ -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
-
-</div>
