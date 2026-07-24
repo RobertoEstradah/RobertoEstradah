@@ -8,17 +8,18 @@
 Físico computacional 🇲🇽 · Maestría en Ciencias Computacionales (UJAT)
 Deep learning, visión artificial y métodos numéricos aplicados a problemas reales.
 
-![Español](https://img.shields.io/badge/SPANISH-1a1b27?style=flat-square&labelColor=1a1b27)
+![Spanish](https://img.shields.io/badge/SPANISH-1a1b27?style=flat-square&labelColor=1a1b27)
 ![Native](https://img.shields.io/badge/NATIVE-3b4261?style=flat-square)
+&nbsp;&nbsp;
 ![English](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
 ![B1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
 &nbsp;&nbsp;
-![France](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
-![A1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
+![French](https://img.shields.io/badge/FRENCH-1a1b27?style=flat-square&labelColor=1a1b27)
+![A1](https://img.shields.io/badge/A1-3b4261?style=flat-square)
 &nbsp;&nbsp;
-![Portuguese](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
-![A1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
-&nbsp;&nbsp;
+![Portuguese](https://img.shields.io/badge/PORTUGUESE-1a1b27?style=flat-square&labelColor=1a1b27)
+![A1](https://img.shields.io/badge/A1-3b4261?style=flat-square)
+
 ![Azure AI-900](https://img.shields.io/badge/Microsoft%20Certified-AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <br>
