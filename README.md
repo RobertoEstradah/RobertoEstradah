@@ -85,6 +85,35 @@ Deep learning, computer vision, and numerical methods applied to real-world prob
 
 <br>
 
+
+<!-- ============ CLOSING (centered) ============ -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+
+<br><br>
+
+## Let's Connect!
+
+<h3>─── ★ ★ ★ ───</h3>
+
+<a href="https://linkedin.com/in/roberto-estradah">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robertohernandezestrd@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://robertoestradah.github.io/Portafolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
+
+</div>
+
 <!-- ============ FEATURED PROJECTS (centered) ============ -->
 
 ## Featured Projects
@@ -135,30 +164,3 @@ What sets it apart from a leaderboard notebook:
 
 <br>
 
-<!-- ============ CLOSING (centered) ============ -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-
-<br><br>
-
-## Let's Connect!
-
-<h3>─── ★ ★ ★ ───</h3>
-
-<a href="https://linkedin.com/in/roberto-estradah">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:robertohernandezestrd@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://robertoestradah.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
-
-</div>
