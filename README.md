@@ -1,12 +1,12 @@
-<!-- ============ ENCABEZADO ============ -->
+<!-- ============ HEADER ============ -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Roberto+Hern%C3%A1ndez+Estrada;Physicist+%E2%86%92+Machine+Learning+Engineer;Physics-Informed+Neural+Networks;Credit+Risk+%26+Explainable+ML" alt="typing" />
 
 <h3>─── ★ ★ ★ ───</h3>
 
-Físico computacional 🇲🇽 · Maestría en Ciencias Computacionales (UJAT)
-Deep learning, visión artificial y métodos numéricos aplicados a problemas reales.
+Computational Physicist 🇲🇽 · M.Sc. student in Computer Science (UJAT)
+Deep learning, computer vision, and numerical methods applied to real-world problems.
 
 ![Spanish](https://img.shields.io/badge/SPANISH-1a1b27?style=flat-square&labelColor=1a1b27)
 ![Native](https://img.shields.io/badge/NATIVE-3b4261?style=flat-square)
@@ -38,24 +38,24 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br>
 
-<!-- ============ TRABAJO ACTUAL (sin centrar) ============ -->
+<!-- ============ CURRENT WORK (not centered) ============ -->
 
-## En qué trabajo ahora
+## What I'm working on
 
-- 🔬 **Tesis de maestría** ([`pinn_speckle`](https://github.com/RobertoEstradah/pinn_speckle))**:** PINNs con arquitectura SIREN en PyTorch para resolver la ecuación de Helmholtz y simular *speckle* óptico sin malla. Error relativo L² por debajo del 5% contra la solución de referencia, con pipeline reproducible (muestreo Latin Hypercube, optimizador híbrido Adam + L-BFGS, determinismo en GPU CUDA).
-- 🏦 **Riesgo crediticio explicable:** sistema end-to-end sobre Home Credit Default Risk (307,511 solicitudes) con LightGBM, SHAP, calibración de probabilidades y optimización de umbral por matriz de costos.
-- 🎓 **Docencia:** imparto programación (Python, Scratch, Roblox Studio / Lua) y matemáticas aplicadas en Algonova by Algorithmics.
+- 🔬 **Master's thesis** ([`pinn_speckle`](https://github.com/RobertoEstradah/pinn_speckle))**:** Physics-Informed Neural Networks with a SIREN architecture in PyTorch, solving the Helmholtz equation to simulate optical speckle without a mesh. Relative L² error below 5% against the reference solution, with a reproducible pipeline (Latin Hypercube sampling, hybrid Adam + L-BFGS optimizer, deterministic CUDA execution).
+- 🏦 **Explainable credit risk:** End-to-end scoring system on Home Credit Default Risk (307,511 applications) using LightGBM, SHAP, probability calibration, and threshold optimization driven by a cost matrix.
+- 🎓 **Teaching:** I teach programming (Python, Scratch, Roblox Studio / Lua) and applied mathematics at Algonova by Algorithmics.
 
 <br>
 
-<!-- ============ SKILLS (centrado) ============ -->
+<!-- ============ SKILLS (centered) ============ -->
 <div align="center">
 
 ## Skills
 
 <h3>─── ★ ★ ★ ───</h3>
 
-**Lenguajes**
+**Programming Languages**
 
 [![Skills](https://skillicons.dev/icons?i=py,r,js,lua,html,css&theme=dark)](https://skillicons.dev)
 
@@ -79,44 +79,15 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Herramientas**
+**Tools**
 
 [![Skills](https://skillicons.dev/icons?i=vscode,latex,mysql,github&theme=dark)](https://skillicons.dev)
 
 <br>
 
-<br><br>
+<!-- ============ FEATURED PROJECTS (centered) ============ -->
 
-## Let's Connect!
-
-<h3>─── ★ ★ ★ ───</h3>
-
-<a href="https://linkedin.com/in/roberto-estradah">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:robertohernandezestrd@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://robertoestradah.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<!-- ============ CIERRE (centrado) ============ -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
-
-</div>
-
-<!-- ============ PROYECTOS DESTACADOS (centrado) ============ -->
-
-## Proyectos destacados
+## Featured Projects
 
 <h3>─── ★ ★ ★ ───</h3>
 
@@ -142,25 +113,52 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br>
 
-<!-- ============ CREDIT RISK EN DETALLE (sin centrar: tablas y listas) ============ -->
+<!-- ============ CREDIT RISK IN DEPTH (not centered: tables and lists) ============ -->
 
-### 🏦 Credit Risk Scoring — en detalle
+### 🏦 Credit Risk Scoring — in depth
 
-Demo en vivo: **[credit-risk-scoring-58zh.onrender.com/demo](https://credit-risk-scoring-58zh.onrender.com/demo)**
+Live demo: **[credit-risk-scoring-58zh.onrender.com/demo](https://credit-risk-scoring-58zh.onrender.com/demo)**
 
-| Métrica | Resultado |
+| Metric | Result |
 |---|---|
-| Modelo seleccionado | LightGBM (AUC CV 0.7689 ± 0.0016) vs. baseline LogReg (0.7489 ± 0.0020) |
+| Selected model | LightGBM (CV AUC 0.7689 ± 0.0016) vs. Logistic Regression baseline (0.7489 ± 0.0020) |
 | Holdout | AUC 0.7729 · KS 0.4104 |
-| Calibración | Brier 0.0667 · ECE 0.0028 |
-| Decisión de negocio | Umbral óptimo 0.12 · tasa de aprobación 80.4% |
+| Calibration | Brier 0.0667 · ECE 0.0028 |
+| Business decision | Optimal threshold 0.12 · approval rate 80.4% |
 
-Lo que lo hace distinto de un notebook de leaderboard:
+What sets it apart from a leaderboard notebook:
 
-- La decisión se modela como **optimización de umbral sobre una matriz de costos FN/FP**, no como maximizar AUC.
-- Encontré y corregí un bug real de calibración: `class_weight="balanced"` distorsionaba `predict_proba` hasta dar un Brier peor que predecir la tasa base, pese a buena discriminación.
-- Agregaciones multi-tabla reescritas en **SQL con DuckDB** con test de equivalencia contra pandas, que expuso una divergencia semántica real (`SUM()` sobre grupo nulo).
-- **FastAPI** con paridad train/serve, **Docker** verificado end-to-end, **CI en GitHub Actions** y suite de 18 tests. Desplegado en Render.
+- The lending decision is framed as **threshold optimization over an FN/FP cost matrix**, not as maximizing AUC.
+- Found and fixed a real calibration bug: `class_weight="balanced"` distorted `predict_proba` badly enough that the Brier score was worse than predicting the base rate, despite solid discrimination.
+- Rewrote the multi-table aggregations in **SQL with DuckDB**, with an equivalence test against pandas that exposed a genuine semantic divergence (`SUM()` over a null group).
+- Served through **FastAPI** with train/serve parity, packaged in **Docker** (verified end-to-end), **CI on GitHub Actions**, and an 18-test suite. Deployed on Render.
 
 <br>
 
+<!-- ============ CLOSING (centered) ============ -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+
+<br><br>
+
+## Let's Connect!
+
+<h3>─── ★ ★ ★ ───</h3>
+
+<a href="https://linkedin.com/in/roberto-estradah">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robertohernandezestrd@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://robertoestradah.github.io/Portafolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RobertoEstradah&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square)
+![Followers](https://img.shields.io/github/followers/RobertoEstradah?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=1a1b27)
+
+</div>
