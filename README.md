@@ -1,3 +1,4 @@
+<!-- ============ ENCABEZADO ============ -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Roberto+Hern%C3%A1ndez+Estrada;Physicist+%E2%86%92+Machine+Learning+Engineer;Physics-Informed+Neural+Networks;Credit+Risk+%26+Explainable+ML" alt="typing" />
@@ -16,6 +17,7 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br>
 
+<!-- ============ STATS ============ -->
 <a href="https://github.com/RobertoEstradah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoEstradah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoEstradah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&hide=jupyter%20notebook,tex" />
@@ -27,6 +29,19 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 </div>
 
+<br>
+
+<!-- ============ TRABAJO ACTUAL (sin centrar) ============ -->
+
+## En qué trabajo ahora
+
+- 🔬 **Tesis de maestría** ([`pinn_speckle`](https://github.com/RobertoEstradah/pinn_speckle))**:** PINNs con arquitectura SIREN en PyTorch para resolver la ecuación de Helmholtz y simular *speckle* óptico sin malla. Error relativo L² por debajo del 5% contra la solución de referencia, con pipeline reproducible (muestreo Latin Hypercube, optimizador híbrido Adam + L-BFGS, determinismo en GPU CUDA).
+- 🏦 **Riesgo crediticio explicable:** sistema end-to-end sobre Home Credit Default Risk (307,511 solicitudes) con LightGBM, SHAP, calibración de probabilidades y optimización de umbral por matriz de costos.
+- 🎓 **Docencia:** imparto programación (Python, Scratch, Roblox Studio / Lua) y matemáticas aplicadas en Algonova by Algorithmics.
+
+<br>
+
+<!-- ============ SKILLS (centrado) ============ -->
 <div align="center">
 
 ## Skills
@@ -63,26 +78,11 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br>
 
-
-<br>
-
-<div align="center">
-
-## Let's Connect!
-
-<a href="https://linkedin.com/in/roberto-estradah">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:robertohernandezestrd@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://robertoestradah.github.io/Portafolio/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
+<!-- ============ PROYECTOS DESTACADOS (centrado) ============ -->
 
 ## Proyectos destacados
+
+<h3>─── ★ ★ ★ ───</h3>
 
 <a href="https://github.com/RobertoEstradah/credit-risk-scoring">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobertoEstradah&repo=credit-risk-scoring&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -106,6 +106,8 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 <br>
 
+<!-- ============ CREDIT RISK EN DETALLE (sin centrar: tablas y listas) ============ -->
+
 ### 🏦 Credit Risk Scoring — en detalle
 
 Demo en vivo: **[credit-risk-scoring-58zh.onrender.com/demo](https://credit-risk-scoring-58zh.onrender.com/demo)**
@@ -123,9 +125,29 @@ Lo que lo hace distinto de un notebook de leaderboard:
 - Encontré y corregí un bug real de calibración: `class_weight="balanced"` distorsionaba `predict_proba` hasta dar un Brier peor que predecir la tasa base, pese a buena discriminación.
 - Agregaciones multi-tabla reescritas en **SQL con DuckDB** con test de equivalencia contra pandas, que expuso una divergencia semántica real (`SUM()` sobre grupo nulo).
 - **FastAPI** con paridad train/serve, **Docker** verificado end-to-end, **CI en GitHub Actions** y suite de 18 tests. Desplegado en Render.
+
 <br>
 
+<!-- ============ CIERRE (centrado) ============ -->
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=RobertoEstradah&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
+
+<br><br>
+
+## Let's Connect!
+
+<h3>─── ★ ★ ★ ───</h3>
+
+<a href="https://linkedin.com/in/roberto-estradah">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:robertohernandezestrd@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://robertoestradah.github.io/Portafolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br><br>
 
