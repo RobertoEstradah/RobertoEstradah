@@ -13,6 +13,12 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 ![English](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
 ![B1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
 &nbsp;&nbsp;
+![France](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
+![A1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
+&nbsp;&nbsp;
+![Portuguese](https://img.shields.io/badge/ENGLISH-1a1b27?style=flat-square&labelColor=1a1b27)
+![A1](https://img.shields.io/badge/B1-3b4261?style=flat-square)
+&nbsp;&nbsp;
 ![Azure AI-900](https://img.shields.io/badge/Microsoft%20Certified-AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <br>
