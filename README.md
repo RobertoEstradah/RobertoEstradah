@@ -27,16 +27,6 @@ Deep learning, visión artificial y métodos numéricos aplicados a problemas re
 
 </div>
 
-<br>
-
-## En qué trabajo ahora
-
-- 🔬 **Tesis de maestría** ([`pinn_speckle`](https://github.com/RobertoEstradah/pinn_speckle))**:** PINNs con arquitectura SIREN en PyTorch para resolver la ecuación de Helmholtz y simular *speckle* óptico sin malla. Error relativo L² por debajo del 5% contra la solución de referencia, con pipeline reproducible (muestreo Latin Hypercube, optimizador híbrido Adam + L-BFGS, determinismo en GPU CUDA).
-- 🏦 **Riesgo crediticio explicable:** sistema end-to-end sobre Home Credit Default Risk (307,511 solicitudes) con LightGBM, SHAP, calibración de probabilidades y optimización de umbral por matriz de costos.
-- 🎓 **Docencia:** imparto programación (Python, Scratch, Roblox Studio / Lua) y matemáticas aplicadas en Algonova by Algorithmics.
-
-<br>
-
 <div align="center">
 
 ## Skills
